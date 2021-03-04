@@ -1,2 +1,1 @@
-# snake
-this is snake
+proof
